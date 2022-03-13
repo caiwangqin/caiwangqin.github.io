@@ -39,5 +39,5 @@ jobs:
           host: ${{ secrets.USER_HOST }}
           user: ${{ secrets.USER_NAME }}
           key: ${{ secrets.USER_KEY }}
-          local: './.deploy_git/*'
+          local: './public/*'
           remote: /www/wwwroot/www.caiwangqin.com  

@@ -11,6 +11,9 @@ buildExpired: false
 enableEmoji: true
 pygmentsUseClasses: true
 
+languageCode: zh-cn
+hasCJKLanguage: true
+
 # googleAnalytics: UA-123-45
 
 minify:
@@ -204,3 +207,5 @@ taxonomies:
 #         guessSyntax: true
 #         lineNos: true
 #         style: monokai
+
+disqusShortname: "caiwangqin"

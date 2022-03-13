@@ -9,4 +9,5 @@ categories: [
 ---
 
 
-![核酸](https://wx2.sinaimg.cn/bmiddle/575e19dagy1h08evpkzlyj20fq0cv0vk.jpg)
+
+![核酸](https://cn06.img.wlhn.club/imgs/2022/03/c06c5ca5fdbe16c3.jpg)

@@ -40,4 +40,4 @@ jobs:
           user: ${{ secrets.USER_NAME }}
           key: ${{ secrets.USER_KEY }}
           local: './public/*'
-          remote: /www/wwwroot/www.caiwangqin.com  
+          remote: /www/wwwroot/caiwangqin.com  

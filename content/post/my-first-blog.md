@@ -6,6 +6,7 @@ tags: ["first"]
 categories: [
      "setup"
 ]
+comments: false
 ---
 
 ## Hello World!

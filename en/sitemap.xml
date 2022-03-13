@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://caiwangqin.com/en/</loc>
-    <lastmod>2022-03-13T12:15:53+08:00</lastmod>
+    <lastmod>2022-03-13T18:09:16+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
@@ -16,7 +16,7 @@
                 />
   </url><url>
     <loc>https://caiwangqin.com/en/categories/</loc>
-    <lastmod>2022-03-13T12:15:53+08:00</lastmod>
+    <lastmod>2022-03-13T18:09:16+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
@@ -26,6 +26,71 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://caiwangqin.com/en/categories/"
+                />
+  </url><url>
+    <loc>https://caiwangqin.com/en/tags/covid/</loc>
+    <lastmod>2022-03-13T18:09:16+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://caiwangqin.com/tags/covid/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://caiwangqin.com/en/tags/covid/"
+                />
+  </url><url>
+    <loc>https://caiwangqin.com/en/categories/life/</loc>
+    <lastmod>2022-03-13T18:09:16+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://caiwangqin.com/categories/life/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://caiwangqin.com/en/categories/life/"
+                />
+  </url><url>
+    <loc>https://caiwangqin.com/en/post/live-with-covid/</loc>
+    <lastmod>2022-03-13T18:09:16+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://caiwangqin.com/post/live-with-covid/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://caiwangqin.com/en/post/live-with-covid/"
+                />
+  </url><url>
+    <loc>https://caiwangqin.com/en/post/</loc>
+    <lastmod>2022-03-13T18:09:16+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://caiwangqin.com/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://caiwangqin.com/en/post/"
+                />
+  </url><url>
+    <loc>https://caiwangqin.com/en/tags/</loc>
+    <lastmod>2022-03-13T18:09:16+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://caiwangqin.com/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://caiwangqin.com/en/tags/"
                 />
   </url><url>
     <loc>https://caiwangqin.com/en/tags/first/</loc>
@@ -54,19 +119,6 @@
                 href="https://caiwangqin.com/en/post/my-first-blog/"
                 />
   </url><url>
-    <loc>https://caiwangqin.com/en/post/</loc>
-    <lastmod>2022-03-13T12:15:53+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://caiwangqin.com/post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://caiwangqin.com/en/post/"
-                />
-  </url><url>
     <loc>https://caiwangqin.com/en/categories/setup/</loc>
     <lastmod>2022-03-13T12:15:53+08:00</lastmod>
     <xhtml:link
@@ -78,19 +130,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://caiwangqin.com/en/categories/setup/"
-                />
-  </url><url>
-    <loc>https://caiwangqin.com/en/tags/</loc>
-    <lastmod>2022-03-13T12:15:53+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://caiwangqin.com/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://caiwangqin.com/en/tags/"
                 />
   </url><url>
     <loc>https://caiwangqin.com/en/archives/</loc>

@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://caiwangqin.com/categories/</loc>
-    <lastmod>2022-03-13T12:03:17+08:00</lastmod>
+    <lastmod>2022-03-13T17:50:10+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -15,8 +15,83 @@
                 href="https://caiwangqin.com/categories/"
                 />
   </url><url>
-    <loc>https://caiwangqin.com/categories/development/</loc>
-    <lastmod>2022-03-13T12:03:17+08:00</lastmod>
+    <loc>https://caiwangqin.com/tags/covid/</loc>
+    <lastmod>2022-03-13T17:50:10+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://caiwangqin.com/en/tags/covid/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://caiwangqin.com/tags/covid/"
+                />
+  </url><url>
+    <loc>https://caiwangqin.com/categories/life/</loc>
+    <lastmod>2022-03-13T17:50:10+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://caiwangqin.com/en/categories/life/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://caiwangqin.com/categories/life/"
+                />
+  </url><url>
+    <loc>https://caiwangqin.com/post/</loc>
+    <lastmod>2022-03-13T17:50:10+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://caiwangqin.com/en/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://caiwangqin.com/post/"
+                />
+  </url><url>
+    <loc>https://caiwangqin.com/tags/</loc>
+    <lastmod>2022-03-13T17:50:10+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://caiwangqin.com/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://caiwangqin.com/tags/"
+                />
+  </url><url>
+    <loc>https://caiwangqin.com/post/live-with-covid/</loc>
+    <lastmod>2022-03-13T17:50:10+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://caiwangqin.com/en/post/live-with-covid/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://caiwangqin.com/post/live-with-covid/"
+                />
+  </url><url>
+    <loc>https://caiwangqin.com/</loc>
+    <lastmod>2022-03-13T17:50:10+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://caiwangqin.com/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://caiwangqin.com/"
+                />
   </url><url>
     <loc>https://caiwangqin.com/tags/first/</loc>
     <lastmod>2022-03-13T12:03:17+08:00</lastmod>
@@ -29,32 +104,6 @@
                 rel="alternate"
                 hreflang="zh"
                 href="https://caiwangqin.com/tags/first/"
-                />
-  </url><url>
-    <loc>https://caiwangqin.com/post/my-first-blog/</loc>
-    <lastmod>2022-03-13T12:03:17+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://caiwangqin.com/en/post/my-first-blog/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://caiwangqin.com/post/my-first-blog/"
-                />
-  </url><url>
-    <loc>https://caiwangqin.com/post/</loc>
-    <lastmod>2022-03-13T12:03:17+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://caiwangqin.com/en/post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://caiwangqin.com/post/"
                 />
   </url><url>
     <loc>https://caiwangqin.com/categories/setup/</loc>
@@ -70,30 +119,17 @@
                 href="https://caiwangqin.com/categories/setup/"
                 />
   </url><url>
-    <loc>https://caiwangqin.com/tags/</loc>
+    <loc>https://caiwangqin.com/post/my-first-blog/</loc>
     <lastmod>2022-03-13T12:03:17+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://caiwangqin.com/en/tags/"
+                href="https://caiwangqin.com/en/post/my-first-blog/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://caiwangqin.com/tags/"
-                />
-  </url><url>
-    <loc>https://caiwangqin.com/</loc>
-    <lastmod>2022-03-13T12:03:17+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://caiwangqin.com/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://caiwangqin.com/"
+                href="https://caiwangqin.com/post/my-first-blog/"
                 />
   </url><url>
     <loc>https://caiwangqin.com/archives/</loc>

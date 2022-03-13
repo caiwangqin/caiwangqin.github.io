@@ -1,8 +1,0 @@
-- name: local remote scp
-  uses: cross-the-world/scp-pipeline@master
-  with:
-    host: ${{ secrets.USER_HOST }}
-    user: ${{ secrets.USER_NAME }}
-    key: ${{ secrets.USER_KEY }}
-    local: "./test/test1*"
-    remote: /www/wwwroot/www.caiwangqin.com  

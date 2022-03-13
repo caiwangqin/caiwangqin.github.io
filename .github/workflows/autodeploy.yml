@@ -1,9 +1,8 @@
-name: 部署到云服务器
-    uses: cross-the-world/scp-pipeline@master
-    with:
-        host: ${{ secrets.USER_HOST }}        # 服务器IP地址
-        user: ${{ secrets.USER_NAME }}        # 服务器用户名
-        key: ${{ secrets.USER_KEY }}        #  服务器密码
-        connect_timeout: 10s
-        local: './.deploy_git/*'
-        remote: /www/wwwroot/www.caiwangqin.com        # 这是服务器内博客的路径
+- name: local remote scp
+  uses: cross-the-world/scp-pipeline@master
+  with:
+    host: ${{ secrets.USER_HOST }}
+    user: ${{ secrets.USER_NAME }}
+    key: ${{ secrets.USER_KEY }}
+    local: "./test/test1*"
+    remote: /www/wwwroot/www.caiwangqin.com  

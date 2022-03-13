@@ -2,134 +2,134 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://caiwangqin.github.io/categories/</loc>
+    <loc>https://caiwangqin.com/categories/</loc>
     <lastmod>2022-03-13T12:03:17+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://caiwangqin.github.io/en/categories/"
+                href="https://caiwangqin.com/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://caiwangqin.github.io/categories/"
+                href="https://caiwangqin.com/categories/"
                 />
   </url><url>
-    <loc>https://caiwangqin.github.io/categories/development/</loc>
+    <loc>https://caiwangqin.com/categories/development/</loc>
     <lastmod>2022-03-13T12:03:17+08:00</lastmod>
   </url><url>
-    <loc>https://caiwangqin.github.io/tags/first/</loc>
-    <lastmod>2022-03-13T12:03:17+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://caiwangqin.github.io/en/tags/first/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://caiwangqin.github.io/tags/first/"
-                />
-  </url><url>
-    <loc>https://caiwangqin.github.io/post/my-first-blog/</loc>
+    <loc>https://caiwangqin.com/tags/first/</loc>
     <lastmod>2022-03-13T12:03:17+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://caiwangqin.github.io/en/post/my-first-blog/"
+                href="https://caiwangqin.com/en/tags/first/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://caiwangqin.github.io/post/my-first-blog/"
+                href="https://caiwangqin.com/tags/first/"
                 />
   </url><url>
-    <loc>https://caiwangqin.github.io/post/</loc>
+    <loc>https://caiwangqin.com/post/my-first-blog/</loc>
     <lastmod>2022-03-13T12:03:17+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://caiwangqin.github.io/en/post/"
+                href="https://caiwangqin.com/en/post/my-first-blog/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://caiwangqin.github.io/post/"
+                href="https://caiwangqin.com/post/my-first-blog/"
                 />
   </url><url>
-    <loc>https://caiwangqin.github.io/categories/setup/</loc>
+    <loc>https://caiwangqin.com/post/</loc>
     <lastmod>2022-03-13T12:03:17+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://caiwangqin.github.io/en/categories/setup/"
+                href="https://caiwangqin.com/en/post/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://caiwangqin.github.io/categories/setup/"
+                href="https://caiwangqin.com/post/"
                 />
   </url><url>
-    <loc>https://caiwangqin.github.io/tags/</loc>
+    <loc>https://caiwangqin.com/categories/setup/</loc>
     <lastmod>2022-03-13T12:03:17+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://caiwangqin.github.io/en/tags/"
+                href="https://caiwangqin.com/en/categories/setup/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://caiwangqin.github.io/tags/"
+                href="https://caiwangqin.com/categories/setup/"
                 />
   </url><url>
-    <loc>https://caiwangqin.github.io/</loc>
+    <loc>https://caiwangqin.com/tags/</loc>
     <lastmod>2022-03-13T12:03:17+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://caiwangqin.github.io/en/"
+                href="https://caiwangqin.com/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://caiwangqin.github.io/"
+                href="https://caiwangqin.com/tags/"
                 />
   </url><url>
-    <loc>https://caiwangqin.github.io/archives/</loc>
+    <loc>https://caiwangqin.com/</loc>
+    <lastmod>2022-03-13T12:03:17+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://caiwangqin.github.io/en/archives/"
+                href="https://caiwangqin.com/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://caiwangqin.github.io/archives/"
+                href="https://caiwangqin.com/"
                 />
   </url><url>
-    <loc>https://caiwangqin.github.io/search/</loc>
+    <loc>https://caiwangqin.com/archives/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://caiwangqin.github.io/en/search/"
+                href="https://caiwangqin.com/en/archives/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://caiwangqin.github.io/search/"
+                href="https://caiwangqin.com/archives/"
                 />
   </url><url>
-    <loc>https://caiwangqin.github.io/series/</loc>
+    <loc>https://caiwangqin.com/search/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://caiwangqin.github.io/en/series/"
+                href="https://caiwangqin.com/en/search/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://caiwangqin.github.io/series/"
+                href="https://caiwangqin.com/search/"
+                />
+  </url><url>
+    <loc>https://caiwangqin.com/series/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://caiwangqin.com/en/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://caiwangqin.com/series/"
                 />
   </url>
 </urlset>

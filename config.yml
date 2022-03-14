@@ -187,7 +187,7 @@ params:
   # Waline client configuration see: https://waline.js.org/en/reference/client.html
   waline:
     enable: true
-    serverURL: https://waline-caiwangqin.vercel.app/
+    serverURL: https://waline.caiwangqin.com/
     visitor: true
     avatar: "mp"
     notify: true

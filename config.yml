@@ -184,6 +184,22 @@ params:
     avatar: 'mm'
     visitor: true
 
+  # Waline client configuration see: https://waline.js.org/en/reference/client.html
+  waline:
+    enable: true
+    serverURL: https://waline-caiwangqin.vercel.app/
+    visitor: true
+    avatar: "mp"
+    notify: true
+    verify: false
+    visitor: true
+    emoji:
+        - https://cdn.jsdelivr.net/gh/walinejs/emojis/qq
+    requiredFields: ['nick','mail']
+    locale:
+        admin: Admin
+
+
 menu:
   main:
     - identifier: categories
